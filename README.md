@@ -1,2 +1,3 @@
-# exercicios-python
-Exercicios basico de Python
+## Exercicios de Python para Estudos
+
+Exercicios, e trabalhos feito em Python
